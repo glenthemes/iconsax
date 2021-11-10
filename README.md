@@ -23,7 +23,7 @@ To use an icon, paste the following line where you want your icon to be:
 <i class="iconsax" icon-name="milk"></i>
 ```
 
-Choose an icons from [the list](https://glenthemes.tumblr.com/icons/iconsax), copy the name and paste it between the `""` of `icon-name=""`.  
+Choose an icon from [the list](https://glenthemes.tumblr.com/icons/iconsax), copy the name and paste it between the `""` of `icon-name=""`.  
 (in this case, replace `milk`).
 
 Use this CSS to set the global appearance of the icons:
