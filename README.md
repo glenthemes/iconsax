@@ -38,7 +38,7 @@ If you want to change the styling of an icon e.g. under a different div:
 ```
 .special-class .iconsax {
     --Iconsax-Size:14px;
-    --IconSax-Color:#696969;
+    --Iconsax-Color:#696969;
 }
 ```
 ---
