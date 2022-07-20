@@ -12,7 +12,11 @@
 ---
 
 #### HOW TO USE:
-Under `<head>` in your HTML, paste the following:
+Make sure you have jQuery somewhere on your page. If you don't have it, put this under `<head>`:
+```
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+```
+Paste the essential scripts (also under `<head>`):
 ```
 <script src="//glenthemes.github.io/iconsax/geticons.js"></script>
 <link href="//glenthemes.github.io/iconsax/style.css" rel="stylesheet">
